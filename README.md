@@ -1,2 +1,2 @@
-# documenta-o-Pit-II
+# documentacao-Pit-II
 Documentação relacionada ao projeto desenvolvido para a atividade PIT II da Faculdade Cruzeiro do Sul.
